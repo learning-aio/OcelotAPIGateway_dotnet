@@ -7,7 +7,7 @@
       "UpstreamPathTemplate": "/gateway/writers",
       "UpstreamHttpMethod": [ "Get" ],
       "DownstreamPathTemplate": "/api/writers",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
@@ -22,7 +22,7 @@
       "UpstreamPathTemplate": "/gateway/writers/{id}",
       "UpstreamHttpMethod": [ "Get" ],
       "DownstreamPathTemplate": "/api/writers/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
@@ -34,7 +34,7 @@
       "UpstreamPathTemplate": "/gateway/writers",
       "UpstreamHttpMethod": [ "Post" ],
       "DownstreamPathTemplate": "/api/writers",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
@@ -46,7 +46,7 @@
       "UpstreamPathTemplate": "/gateway/articles",
       "UpstreamHttpMethod": [ "Get" ],
       "DownstreamPathTemplate": "/api/articles",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
@@ -64,7 +64,7 @@
       "UpstreamPathTemplate": "/gateway/articles/{id}",
       "UpstreamHttpMethod": [ "Get", "Delete" ],
       "DownstreamPathTemplate": "/api/articles/{id}",
-      "DownstreamScheme": "https",
+      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
