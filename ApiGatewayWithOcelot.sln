@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Writer", "Writer", "{A01B56
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{989E30AE-C8E9-4733-9B06-C2C39DEE178F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article.Api", "Article.Api\Article.Api.csproj", "{E9DF798F-66F8-4BB2-A907-D6A2BBA851E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Api", "Article.Api\Article.Api.csproj", "{E9DF798F-66F8-4BB2-A907-D6A2BBA851E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Writer.Api", "Writer.Api\Writer.Api.csproj", "{B65769B7-0A71-4F3D-80CA-F9E723F7B84E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Writer.Api", "Writer.Api\Writer.Api.csproj", "{B65769B7-0A71-4F3D-80CA-F9E723F7B84E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotApiGateway", "OcelotApiGateway\OcelotApiGateway.csproj", "{F20FBEB1-5DFE-47A8-A1F1-BF943C1F7450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcelotApiGateway", "OcelotApiGateway\OcelotApiGateway.csproj", "{F20FBEB1-5DFE-47A8-A1F1-BF943C1F7450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Writer.Tests", "Writer.Tests\Writer.Tests.csproj", "{BF5C0C48-B744-47E7-8E26-B71C1EB1AC33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Writer.Tests", "Writer.Tests\Writer.Tests.csproj", "{BF5C0C48-B744-47E7-8E26-B71C1EB1AC33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article.Tests", "Article.Tests\Article.Tests.csproj", "{2CC91DB6-2889-42B0-BD6A-464C2AC97B14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Article.Tests", "Article.Tests\Article.Tests.csproj", "{2CC91DB6-2889-42B0-BD6A-464C2AC97B14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,11 +38,9 @@ Global
 		{F20FBEB1-5DFE-47A8-A1F1-BF943C1F7450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F20FBEB1-5DFE-47A8-A1F1-BF943C1F7450}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BF5C0C48-B744-47E7-8E26-B71C1EB1AC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BF5C0C48-B744-47E7-8E26-B71C1EB1AC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5C0C48-B744-47E7-8E26-B71C1EB1AC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5C0C48-B744-47E7-8E26-B71C1EB1AC33}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2CC91DB6-2889-42B0-BD6A-464C2AC97B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2CC91DB6-2889-42B0-BD6A-464C2AC97B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC91DB6-2889-42B0-BD6A-464C2AC97B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC91DB6-2889-42B0-BD6A-464C2AC97B14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
