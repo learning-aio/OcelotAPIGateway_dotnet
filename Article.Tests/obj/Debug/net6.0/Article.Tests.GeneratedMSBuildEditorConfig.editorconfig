@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Article.Tests
-build_property.ProjectDir = D:\Learn Here\2023\.Net Core Cloned\CodeMazeGuides\aspnetcore-webapi\ApiGatewayWithOcelot\Article.Tests\
+build_property.ProjectDir = D:\Source\Repos\MS\OcelotAPIGateway.Net7\Article.Tests\
