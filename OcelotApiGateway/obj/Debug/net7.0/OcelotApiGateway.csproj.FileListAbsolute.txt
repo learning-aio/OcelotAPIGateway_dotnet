@@ -49,3 +49,10 @@ D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\obj\Debug\net7.0\refin
 D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\obj\Debug\net7.0\OcelotApiGateway.pdb
 D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\obj\Debug\net7.0\OcelotApiGateway.genruntimeconfig.cache
 D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\obj\Debug\net7.0\ref\OcelotApiGateway.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Source\Repos\MS\OcelotAPIGateway.Net7\OcelotApiGateway\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
